@@ -1,0 +1,67 @@
+{
+    "common": {
+        "hello": "Xin chào",
+        "welcome": "Chào mừng",
+        "save": "Lưu",
+        "cancel": "Hủy",
+        "add": "Thêm",
+        "edit": "Chỉnh sửa",
+        "delete": "Xóa",
+        "search": "Tìm kiếm",
+        "loading": "Đang tải...",
+        "error": "Đã xảy ra lỗi",
+        "success": "Thành công",
+        "retry": "Thử lại"
+    },
+    "navigation": {
+        "home": "Trang chủ",
+        "teachers": "Giáo viên",
+        "profile": "Hồ sơ",
+        "settings": "Cài đặt"
+    },
+    "teacher": {
+        "title": "EduConnect",
+        "subtitle": "Tìm kiếm và kết nối với các giáo viên có trình độ",
+        "addTeacher": "Thêm Giáo Viên Mới",
+        "editTeacher": "Chỉnh Sửa Giáo Viên",
+        "teacherList": "Danh Sách Giáo Viên",
+        "name": "Họ tên",
+        "subject": "Môn học",
+        "location": "Địa điểm",
+        "rating": "Đánh giá",
+        "fee": "Học phí",
+        "contact": "Liên hệ",
+        "actions": "Hành động",
+        "teachersAvailable": "giáo viên có sẵn",
+        "teacherAvailable": "giáo viên có sẵn",
+        "noTeachersFound": "Không tìm thấy giáo viên nào"
+    },
+    "form": {
+        "enterName": "Nhập tên giáo viên",
+        "selectSubject": "Chọn môn học",
+        "enterLocation": "Nhập địa điểm",
+        "enterFee": "Nhập học phí theo giờ",
+        "enterEmail": "Nhập địa chỉ email",
+        "enterPhone": "Nhập số điện thoại",
+        "nameRequired": "Họ tên là bắt buộc",
+        "subjectRequired": "Môn học là bắt buộc",
+        "locationRequired": "Địa điểm là bắt buộc",
+        "feeRequired": "Học phí là bắt buộc",
+        "emailRequired": "Email là bắt buộc",
+        "phoneRequired": "Số điện thoại là bắt buộc",
+        "validEmail": "Vui lòng nhập email hợp lệ",
+        "validPhone": "Vui lòng nhập số điện thoại hợp lệ"
+    },
+    "subjects": {
+        "mathematics": "Toán học",
+        "english": "Văn học Anh",
+        "physics": "Vật lý",
+        "chemistry": "Hóa học",
+        "computerScience": "Khoa học Máy tính",
+        "biology": "Sinh học",
+        "history": "Lịch sử",
+        "geography": "Địa lý",
+        "art": "Nghệ thuật",
+        "music": "Âm nhạc"
+    }
+}

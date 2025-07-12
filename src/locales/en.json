@@ -1,0 +1,67 @@
+{
+    "common": {
+        "hello": "Hello",
+        "welcome": "Welcome",
+        "save": "Save",
+        "cancel": "Cancel",
+        "add": "Add",
+        "edit": "Edit",
+        "delete": "Delete",
+        "search": "Search",
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "success": "Success",
+        "retry": "Retry"
+    },
+    "navigation": {
+        "home": "Home",
+        "teachers": "Teachers",
+        "profile": "Profile",
+        "settings": "Settings"
+    },
+    "teacher": {
+        "title": "EduConnect",
+        "subtitle": "Find and connect with qualified teachers",
+        "addTeacher": "Add New Teacher",
+        "editTeacher": "Edit Teacher",
+        "teacherList": "Teacher List",
+        "name": "Name",
+        "subject": "Subject",
+        "location": "Location",
+        "rating": "Rating",
+        "fee": "Fee",
+        "contact": "Contact",
+        "actions": "Actions",
+        "teachersAvailable": "teachers available",
+        "teacherAvailable": "teacher available",
+        "noTeachersFound": "No teachers found"
+    },
+    "form": {
+        "enterName": "Enter teacher name",
+        "selectSubject": "Select subject",
+        "enterLocation": "Enter location",
+        "enterFee": "Enter fee per hour",
+        "enterEmail": "Enter email address",
+        "enterPhone": "Enter phone number",
+        "nameRequired": "Name is required",
+        "subjectRequired": "Subject is required",
+        "locationRequired": "Location is required",
+        "feeRequired": "Fee is required",
+        "emailRequired": "Email is required",
+        "phoneRequired": "Phone number is required",
+        "validEmail": "Please enter a valid email",
+        "validPhone": "Please enter a valid phone number"
+    },
+    "subjects": {
+        "mathematics": "Mathematics",
+        "english": "English Literature",
+        "physics": "Physics",
+        "chemistry": "Chemistry",
+        "computerScience": "Computer Science",
+        "biology": "Biology",
+        "history": "History",
+        "geography": "Geography",
+        "art": "Art",
+        "music": "Music"
+    }
+}
